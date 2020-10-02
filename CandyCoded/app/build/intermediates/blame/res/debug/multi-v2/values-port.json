@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/tcscorp/AndroidStudioProjects/Pluralsight/Android-CandyCodedApplication/CandyCoded/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/tcscorp/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/a7d341ae3ca0ae24a260ecd84b5ce663/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
